@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GiphyGallery</string>
+    <string name="search">Search</string>
+    <string name="no_images">No images found :(</string>
+    <string name="image_size">%1$sH x %2$sW</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+</resources>
